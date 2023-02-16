@@ -1,0 +1,15 @@
+
+/* *{
+
+    background-color: lightblue;
+} */
+.app{
+
+    display: flex;
+    flex-direction: column;
+    
+}
+
+.app-body{
+    display: flex;
+}
